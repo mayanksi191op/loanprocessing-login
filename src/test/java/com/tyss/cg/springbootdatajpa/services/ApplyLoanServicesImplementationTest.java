@@ -26,6 +26,8 @@ class ApplyLoanServicesImplementationTest {
 		applyloan = new Applyloan();
 		applyloan.setAddress("Nayi Basti Chotti Julahti");
 		applyloan.setCard("ADH12345");
+		applyloan.setFullname("Akash");
+		applyloan.setAge("23");
 		applyloan.setCity("Rath");
 		applyloan.setLoanamount("20000");
 		applyloan.setLoantenure("25");
